@@ -109,4 +109,4 @@ Also you can run automatic tests over the application using WebdriverIO technolo
 
 ### License & Copyright
 
-© Radium Rocket "Become a Software Professional 2023".
+© Radium Rocket "Become a Software Professional 2023"
