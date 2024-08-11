@@ -109,9 +109,14 @@ Also you can run automatic tests over the application using WebdriverIO technolo
 ### Test mail
 
 superadmin@gmail.com (superadmin)
+<br>
 reymundo@gmail.com (admin)
+<br>
 scaloneta@gmail.com (trainer)
+<br>
 pepep@gmail.com (member)
+
+<br>
 
 ### License & Copyright
 
