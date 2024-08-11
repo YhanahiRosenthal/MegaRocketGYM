@@ -95,7 +95,6 @@ Also you can run automatic tests over the application using WebdriverIO technolo
 | <img src="https://avatars.githubusercontent.com/u/49520632?v=4" height="50" width="50">  |    Ivan Jukonis     |      jukoivan024@gmail.com       |      [@IvanJukonis](https://github.com/IvanJukonis)      |
 | <img src="https://avatars.githubusercontent.com/u/93749172?v=4" height="50" width="50">  |      Gino Boca      |        gnoboca@gmail.com         |        [@GinoBoca](https://github.com/Ginoboca1)         |
 | <img src="https://avatars.githubusercontent.com/u/70213263?v=4" height="50" width="50">  | Franco Gaston Lelli |   francogastonlelli@gmail.com    |   [@FrancoGastonLelli](https://github.com/FrancoLelli)   |
-| <img src="https://avatars.githubusercontent.com/u/55507203?v=4" height="50" width="50">  |   Nicolas Cagnina   | nicolas.cagnina@radiumrocket.com |    [@NicolasCagnina](https://github.com/NicoCagnina)     |
 
 ### QA team
 
@@ -104,6 +103,18 @@ Also you can run automatic tests over the application using WebdriverIO technolo
 | <img src="https://avatars.githubusercontent.com/u/127681628?v=4" height="50" width="50"> |    Glenda Viera    |    glevide@gmail.com     |     [@Glenda Viera](https://github.com/GleViDe)      |
 | <img src="https://avatars.githubusercontent.com/u/127527880?v=4" height="50" width="50"> | Alejandra Paggiola |  alefpaggiola@gmail.com  | [@AlejandraPaggiola](https://github.com/AlePaggiola) |
 | <img src="https://avatars.githubusercontent.com/u/127547287?v=4" height="50" width="50"> |   Barbara Millan   | barbii.millan@gmail.com  |   [@BarbaraMillan](https://github.com/Barbimillan)   |
+
+<br>
+
+### Test mail
+
+superadmin@gmail.com (superadmin)
+<br>
+reymundo@gmail.com (admin)
+<br>
+scaloneta@gmail.com (trainer)
+<br>
+pepep@gmail.com (member)
 
 <br>
 
