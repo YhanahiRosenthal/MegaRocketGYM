@@ -1,5 +1,5 @@
 import Layout from 'Components/Layout';
-import { Switch, Route, Redirect, useRouteMatch } from 'react-router-dom';
+import { Switch, Route, useRouteMatch } from 'react-router-dom';
 import SignForm from '../Components/Auth/SignUp';
 import LoginForm from 'Components/Auth/Login';
 import RecoverPassword from 'Components/Auth/RecoverPassword';
@@ -126,7 +126,7 @@ const AuthRoute = () => {
         <Route exact path={`${url}/login`} component={LoginForm} />
         <Route exact path={`${url}/sign-up`} component={SignForm} />
         <Route exact path={`${url}/recover-password`} component={RecoverPassword} />
-        <Redirect to={`${url}/home`} />
+        {/* <Redirect to={`${url}/home`} /> */}
       </Switch>
     </Layout>
   );
