@@ -1,5 +1,5 @@
 import React, { Suspense, useEffect } from 'react';
-import { Switch, Route, BrowserRouter } from 'react-router-dom';
+import { Switch, Route, BrowserRouter, Redirect } from 'react-router-dom';
 import PrivateRoute from './privateRoute';
 import { getAuth } from 'redux/auth/thunks';
 import { useDispatch } from 'react-redux';
@@ -33,7 +33,7 @@ const Routes = () => {
           <PrivateRoute path="/member" role="MEMBER" component={MemberRoutes} />
           <PrivateRoute path="/trainer" role="TRAINER" component={TrainerRoutes} />
           <Route path="/auth" component={AuthRoute} />
-          {/* <Redirect to="/auth" component={AuthRoute} /> */}
+          <Redirect to="/auth" component={AuthRoute} />
         </Switch>
       </Suspense>
     </BrowserRouter>
